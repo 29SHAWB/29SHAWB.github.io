@@ -8,4 +8,4 @@ This page contains work completed in EDM II.
 
  - [EDM II Capstone Project-- Board To Be Wild](edm2-capstone-board-to-be-wild.md)
 
- - [Back to Home Page](README.md)
+ - [Back to Home Page](index.md)
