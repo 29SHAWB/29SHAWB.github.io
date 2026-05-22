@@ -1,4 +1,8 @@
-# EDM II
+---
+layout: page
+title: EDM II
+---
+
 This page contains work completed in EDM II.
 ## Projects
 
