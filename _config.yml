@@ -1,0 +1,9 @@
+title: Bradley Shaw
+description: Upper School Engineering Digital Portfolio
+url: "https://29SHAWB.github.io"
+baseurl: ""
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
